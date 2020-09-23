@@ -1530,6 +1530,15 @@ input:checked + .toggleSwitchSlider:before {
     color: white;
 }
 
+.settingsDropinModsHyperlink {
+    color: darkgray;
+    transition: 0.25s ease;
+}
+.settingsDropinModsHyperlink:hover {
+    text-decoration: none;
+    color: white;
+}
+
 /* Mod elements. */
 .settingsMod,
 .settingsDropinMod {
@@ -1658,7 +1667,8 @@ input:checked + .toggleSwitchSlider:before {
     text-shadow: 0px 0px 20px #9b1f1f, 0px 0px 20px #9b1f1f, 0px 0px 20px #9b1f1f;
 }
 
-/* Shaderpack settings description. */
+/* Shaderpack + Dropin Mods settings description. */
+#settingsDropinModsDesc,
 #settingsShaderpackDesc {
     font-size: 10px;
     margin: 10px 0px;
