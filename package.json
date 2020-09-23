@@ -5,7 +5,7 @@
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/GyaraLauncher",
+  "homepage": "https://github.com/Siiriiks/GyaraLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/GyaraLauncher.git"
+    "url": "git+https://github.com/Siiriiks/GyaraLauncher.git"
   }
 }
